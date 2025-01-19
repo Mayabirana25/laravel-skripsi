@@ -69,3 +69,5 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 # laravel-skripsi
 Database Management Website with Laravel
 >>>>>>> cff361c2e93ffcd58ca2db8998323c40182d48f8
+
+
